@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Arrays_Intermediate
+namespace Arrays
 {
     class Program
     {
